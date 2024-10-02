@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish-Codes-00
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Node js MongoDB
+- 🌱 I’m currently learning React js and Node js
 - 📫 How to reach me manishram0710@gmail.com
 - 😄 Pronouns: He
 
