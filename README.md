@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Manish-Codes-00
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning React js and Node js
+- 🌱 I’m currently learning React js
 - 📫 How to reach me manishram0710@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/his
 
 <!---
 Manish-Codes-00/Manish-Codes-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
